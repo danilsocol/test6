@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "test6": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Project\\test6"
+    }
+  }
+}

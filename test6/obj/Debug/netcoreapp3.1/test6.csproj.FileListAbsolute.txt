@@ -1,0 +1,14 @@
+D:\Project\test6\test6\bin\Debug\netcoreapp3.1\test6.exe
+D:\Project\test6\test6\bin\Debug\netcoreapp3.1\test6.deps.json
+D:\Project\test6\test6\bin\Debug\netcoreapp3.1\test6.runtimeconfig.json
+D:\Project\test6\test6\bin\Debug\netcoreapp3.1\test6.runtimeconfig.dev.json
+D:\Project\test6\test6\bin\Debug\netcoreapp3.1\test6.dll
+D:\Project\test6\test6\bin\Debug\netcoreapp3.1\test6.pdb
+D:\Project\test6\test6\obj\Debug\netcoreapp3.1\test6.csproj.AssemblyReference.cache
+D:\Project\test6\test6\obj\Debug\netcoreapp3.1\test6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\test6\test6\obj\Debug\netcoreapp3.1\test6.AssemblyInfoInputs.cache
+D:\Project\test6\test6\obj\Debug\netcoreapp3.1\test6.AssemblyInfo.cs
+D:\Project\test6\test6\obj\Debug\netcoreapp3.1\test6.csproj.CoreCompileInputs.cache
+D:\Project\test6\test6\obj\Debug\netcoreapp3.1\test6.dll
+D:\Project\test6\test6\obj\Debug\netcoreapp3.1\test6.pdb
+D:\Project\test6\test6\obj\Debug\netcoreapp3.1\test6.genruntimeconfig.cache
